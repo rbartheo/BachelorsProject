@@ -1,0 +1,25 @@
+Information about dataset:
+
+The MEx Multi-modal Exercise dataset contains data of 7 different physiotherapy
+exercises, performed by 30 subjects recorded four sensor modalities.
+The dataset can be used for exercise recognition, exercise quality assessment and
+exercise counting, by developing algorithms for pre-processing, feature extraction,
+multi-modal sensor fusion, segmentation and classification.
+Each subject was given a sheet of 7 exercises with instructions to perform the
+exercise at the beginning of the session. At the beginning of each exercise the
+researcher demonstrated the exercise to the subject, then the subject performed the
+exercise for maximum 60 seconds while being recorded with four sensors.
+
+Information about attributes:
+
+The 4 columns in the act files is organized as follows:
+1 - timestamp
+2 - x value
+3 - y value
+4 - z value
+Min value = -8
+Max value = +8
+
+Dataset link:
+
+https://archive.ics.uci.edu/ml/datasets/MEx

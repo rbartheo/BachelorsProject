@@ -1,0 +1,23 @@
+Information about dataset:
+
+The dataset collects data from an Android smartphone positioned in the chest pocket.
+Accelerometer Data are collected from 22 participants
+walking in the wild over a predefined path.
+The dataset is intended for Activity Recognition research purposes.
+It provides challenges for identification and authentication of people using motion patterns.
+Sampling frequency of the accelerometer: DELAY_FASTEST with network connections disabled
+Number of Participants: 22
+Data Format: CSV
+
+Information about attributes:
+
+Data are separated by participant
+Each file contains the following information
+1 - time-step
+2 - x acceleration
+3 - y acceleration
+4 - z acceleration
+
+Dataset link:
+
+https://archive.ics.uci.edu/ml/datasets/User+Identification+From+Walking+Activity

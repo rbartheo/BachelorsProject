@@ -1,0 +1,19 @@
+Information about dataset:
+
+This dataset contains full historical daily price and volume data for all US-based stocks in Karachi stock.
+This Data Contain 801 companies that are registered in Karachi Stock Market, Pakistan.
+
+Information about attributes:
+
+1 - Symbol
+2 - Date
+3 - Open
+4 - High
+5 - Low
+6 - Close
+7 - Volume
+
+
+Dataset link:
+
+https://www.kaggle.com/ghazanfarali/ksedataset?select=AATM.csv

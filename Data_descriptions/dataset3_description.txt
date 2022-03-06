@@ -1,0 +1,26 @@
+Information about dataset:
+
+The collection represents data collected by the Indian government during the Covid-19 pandemic. The data shows how the
+Covid-19 pandemic unfolded in a given Indian state, i.e. how the confirmed cases of the virus looked on each day,
+the number of people who died, the number of people who recovered and the number of people who were tested.
+The collection consists of 36 .csv files that represent each of the administrative states of India.
+The data comes from a Kaggle.com user named oddasparagus11,
+who divided the information released by the Indian government
+into files representing the data of each state. The number of observations
+in each file is: (513, 534, 538, 541, 545, 547, 552, 553, 554, 556,
+558, 559, 561, 562, 563, 564, 566, 569, 571, 574, 575, 576, 580, 254).
+
+
+Information about attributes:
+
+- Date: date of data measurement,
+- State: administrative state of India where the data have been measured,
+- Confirmed: confirmed cases of Covid-19 virus infection,
+- Recovered: number of persons who have recovered,
+- Deceased: number of persons who died,
+- Other: other cases of the virus,
+- Tested: number of tests performed.
+
+Dataset link:
+
+https://www.kaggle.com/oddasparagus11/covid19-statewise-time-series-datatill-sep29
